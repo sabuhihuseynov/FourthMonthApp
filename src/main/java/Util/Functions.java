@@ -44,7 +44,7 @@ public class Functions {
                 } else System.out.println("Sehv cavab !");
             }
             if (!flag) {
-                System.out.println("Duzgun cavab :" + randomValue);
+                System.out.println("Duzgun cavab : " + randomValue);
             }
         }
     }
@@ -71,7 +71,7 @@ public class Functions {
                 } else System.out.println("Sehv cavab !");
             }
             if (!flag) {
-                System.out.println("Duzgun cavab :" + randomValue);
+                System.out.println("Duzgun cavab : " + randomKey);
             }
         }
     }
