@@ -1,0 +1,9 @@
+map, xerite
+apple, alma
+love, sevgi
+peace, sulh
+war, muharibe
+care, qaygi
+magical, sehirli
+incredible, inanilmaz
+
